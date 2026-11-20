@@ -10,7 +10,8 @@ python3 dsa_probenrechner_gui.py
 ```
 
 Voraussetzung: Python 3 mit tkinter (in offiziellen Python-Installationen enthalten;
-unter Debian/Ubuntu ggf. `sudo apt install python3-tk`).
+sonst je nach Distribution: Debian/Ubuntu `sudo apt install python3-tk`,
+Fedora/RHEL/openSUSE `sudo dnf install python3-tkinter`).
 
 ## Eingaben
 
